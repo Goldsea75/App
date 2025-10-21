@@ -1,0 +1,5 @@
+{
+  "name": "Employee Birthday Manager",
+  "description": "An application to manage and notify employee birthdays within a company from a list. It allows adding, editing, and deleting employee records, and highlights upcoming birthdays.",
+  "requestFramePermissions": []
+}
